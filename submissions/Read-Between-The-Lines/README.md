@@ -75,7 +75,7 @@ Every early-onset preeclampsia case in this dataset was delivered preterm. So we
 
 Video link: https://youtu.be/r-HJbUis6js
 
-Presentation slides: docs/Final_Version_-_Delivery_Timing_Explains_Only_About_a_Quarter_of_Preeclampsias_Placental_Gene_Changes.pdf
+[Presentation slides](docs/Final%20Version%20-%20Delivery%20Timing%20Explains%20Only%20About%20a%20Quarter%20of%20Preeclampsia%27s%20Placental%20Gene%20Changes.pdf)
 
 ## Data Citations
 
@@ -83,3 +83,4 @@ Presentation slides: docs/Final_Version_-_Delivery_Timing_Explains_Only_About_a_
 2. Admati I, Skarbianskis N, et al. Two molecular faces of preeclampsia. [Zeisel lab placenta gene browser](https://storage.googleapis.com/www_zeisellab/PE_web/pe_web_test_v1.html); data on [Figshare](https://doi.org/10.6084/m9.figshare.23264102.v1) (CC BY 4.0).
 3. OpenBio Datathon 2026 Track 1 [marker table](https://github.com/Harvard-Undergraduate-OpenBio/openbio-datathon-2026/blob/main/track-01/data/interpretation/track01_marker_matrix.csv).
 4. Muzellec B, et al. PyDESeq2: a Python package for bulk RNA-seq differential expression analysis. Bioinformatics (2023). [doi:10.1093/bioinformatics/btad547](https://doi.org/10.1093/bioinformatics/btad547)
+
